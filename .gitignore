@@ -2,3 +2,6 @@
 **/DS_Store
 **/syndicate.yml
 **/syndicate_aliases.yml
+**/.idea
+**/target
+**/.syndicate-config-task02
